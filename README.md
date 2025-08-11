@@ -1,16 +1,16 @@
 # PDF Analysis Scripts - OpenAI API
 
 ## Overview
-This repository contains scripts for analyzing PDF documents using OpenAI's new **Responses API**.
+This repository contains scripts for analyzing PDF documents using OpenAI's **Responses API**.
 
 ## Available Scripts
 
-### 1. `pdf_simple.py` ✅
+### 1. `pdf_simple.py`
 - Simple example with hardcoded filename and question
 - Uses the new **Responses API** - no deprecation warnings
 - Good for quick testing and understanding the API
 
-### 2. `pdf_query.py` ✅
+### 2. `pdf_query.py`
 - Full-featured command-line tool
 - Uses the new **Responses API** - no deprecation warnings  
 - Flexible arguments and error handling
